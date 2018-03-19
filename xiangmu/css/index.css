@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+.warp {
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.header{
+	width: 100%;
+	float: left;
+}
+.head li {
+	float: right;
+	margin-right: 20px;
+}
+.head li a{
+	color: black;
+	font-size:13px;
+}
+
+.middle{
+	width: 640px;
+	margin-top: 30px;
+	margin-left: 280px;
+	float: left;
+}
+
+
+.text {
+	width: 530px;
+	height: 34px;
+	padding-left: 9px;
+	border: 1px solid #b8b8b8;
+	border-right: 0;
+	float: left;
+	
+}
+
+.submit {
+	width: 100px;
+	height: 36px;
+	background: #3385ff;
+	color: #fff;
+	font-size: 15px;
+	border: 0;
+	cursor: pointer;
+	float: left;
+}
+.erweima {
+	width: 100%;
+	text-align: center;
+	float: left;
+	margin-top: 285px;
+}
+
+.p1{
+ 	width:100%;
+  	margin-top:15px; 
+  	line-height:22px; 
+  	text-align:center; 
+ 	 float:left;
+ 	 margin-top: 20px;
+
+}
+.p1 a{ 
+	margin:0 10px;    
+	color: #999; 
+	text-decoration:underline;
+}
+.p2{ 
+	width:100%; 
+	line-height:22px;  
+	text-align:center;
+	color: #999; 
+	float:left;}
+.p2 a{ 
+	color: #999; 
+	text-decoration:underline;
+}
